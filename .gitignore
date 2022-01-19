@@ -4,5 +4,5 @@
 node_modules
 dist
 .cache
-.Ds_store
+.DS_Store
 .history
